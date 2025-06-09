@@ -9,7 +9,7 @@
     /about_me
     │
     ├── /bio
-    │   ├── he/him - 21y - brazilian - (pt/br + english + français)
+    │   ├── he/him - 21y - brazilian - (pt/br + english)
     │   ├── /personal portfolio
     │   │   └── in development!
     │   ├── /degree in 'systems analysis and development'
