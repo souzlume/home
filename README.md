@@ -12,17 +12,18 @@
     │   ├── he/him - 21y - brazilian - (pt/br + english)
     │   ├── /personal portfolio
     │   │   └── in development!
-    │   ├── /degree in 'systems analysis and development'
-    │   │   └── at ufbra.edu.br/
     │
     ├── /courses
-    │   ├── /vai na web
-    │   │   ├── html5
-    │   │   ├── scss
-    │   │   ├── git bash
+    │   ├── /full stack w/ luiz otávio - on udemy.com
     │   │   ├── javascript
-    │   │   ├── react.js
-    │   │   └── vue.js
+    │   │   ├── typescript
+    │   │   ├── node
+    │   │   ├── express
+    │   │   ├── mongodb
+    │   │   ├── mysql/mariadb
+    │   │   ├── reactjs (react hooks + redux w/ redux saga)
+    │   │   ├── nestjs + strapi + postgresql (com csr, ssr, ssg & isr)
+    │   │   └── html5 + css3
     │
     ├── /experiencie
     │   ├── remote service
