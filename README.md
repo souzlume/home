@@ -14,14 +14,14 @@
     │   │   └── in development!
     │
     ├── /courses
-    │   ├── /full stack w/ luiz otávio - on udemy.com
+    │   ├── /full stack w. luiz otávio - on udemy.com
     │   │   ├── javascript
     │   │   ├── typescript
     │   │   ├── node
     │   │   ├── express
     │   │   ├── mongodb
     │   │   ├── mysql/mariadb
-    │   │   ├── reactjs (react hooks + redux w/ redux saga)
+    │   │   ├── reactjs (react hooks + redux w. redux saga)
     │   │   ├── nestjs + strapi + postgresql (com csr, ssr, ssg & isr)
     │   │   └── html5 + css3
     │
