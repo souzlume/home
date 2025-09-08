@@ -9,24 +9,34 @@
     /about_me
     │
     ├── /bio
-    │   ├── he/him - 21y - brazilian - (pt/br + english)
+    │   ├── he/him - 22y - brazilian - (pt/br + english)
     │   ├── /personal portfolio
     │   │   └── in development!
     │
     ├── /courses
-    │   ├── /full stack w. luiz otávio - on udemy.com
+    │   ├── /front end w. vai na web
+    │   │   ├── html
+    │   │   ├── css
+    │   │   ├── scss/sass
+    │   │   ├── javascript
+    │   │   ├── git & github
+    │   │   ├── react.js
+    │   │   └── vue.js
+    │
+    │   ├── /full stack w. luiz otavio on udemy.com
     │   │   ├── javascript
     │   │   ├── typescript
-    │   │   ├── node
+    │   │   ├── node.js
     │   │   ├── express
     │   │   ├── mongodb
     │   │   ├── mysql/mariadb
-    │   │   ├── reactjs (react hooks + redux w. redux saga)
-    │   │   ├── nestjs + strapi + postgresql (com csr, ssr, ssg & isr)
-    │   │   └── html5 + css3
+    │   │   ├── react.js (react hooks + redux w. redux saga)
+    │   │   ├── nest.js + strapi + postgresql (csr, ssr, ssg & isr)
+    │   │   └── html + css
     │
     ├── /experiencie
     │   ├── remote service
+    │   ├── dev web
     │   ├── technical support
     │   └── service desk
     │
@@ -35,6 +45,5 @@
         ├── vscode
         └── node.js
         
-    
   </tr>
 </table>
